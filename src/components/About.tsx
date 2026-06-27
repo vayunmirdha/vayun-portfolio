@@ -44,7 +44,7 @@ export default function About() {
             <div className="relative rounded-3xl overflow-hidden aspect-[3/4] max-w-md mx-auto group">
               <div className="absolute inset-0 bg-gradient-to-tr from-primary/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 z-10" />
               <img 
-                src="/src/assets/images/about-photo.png" 
+                src="/about-photo.png" 
                 alt="Vayun Mirdha" 
                 className="object-cover w-full h-full transform group-hover:scale-105 transition-transform duration-700"
               />
